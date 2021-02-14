@@ -16,8 +16,8 @@
   "portalUrl": "https://geography-ui.maps.arcgis.com",
   "appId": "",
   "authorizedCrossOriginDomains": [],
-  "title": "Sistem Informasi Tanah Longsor",
-  "subtitle": "UI - Pangripta Geomatika",
+  "title": "Sistem Informasi Sawah Sukawening",
+  "subtitle": "Departemen Geografi FMIPA UI",
   "keepAppState": true,
   "logo": "images/logo.png",
   "geometryService": "https://utility.arcgisonline.com/arcgis/rest/services/Geometry/GeometryServer",
@@ -145,13 +145,13 @@
       },
       {
         "uri": "widgets/Splash/Widget",
-        "visible": false,
         "position": {
           "relativeTo": "browser"
         },
         "version": "2.16",
         "id": "widgets_Splash_Widget_30",
-        "name": "Splash"
+        "name": "Splash",
+        "config": "configs/Splash/config_widgets_Splash_Widget_30.json"
       },
       {
         "position": {
