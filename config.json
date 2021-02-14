@@ -287,7 +287,8 @@
         "id": "widgets_AttributeTable_Widget_47",
         "position": {
           "relativeTo": "map"
-        }
+        },
+        "config": "configs/AttributeTable/config_widgets_AttributeTable_Widget_47.json"
       }
     ],
     "groups": []
